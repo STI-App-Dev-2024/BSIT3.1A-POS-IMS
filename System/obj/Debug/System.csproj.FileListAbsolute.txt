@@ -1,0 +1,14 @@
+C:\Users\eneil\Desktop\POS +ims\System\bin\Debug\System.exe.config
+C:\Users\eneil\Desktop\POS +ims\System\bin\Debug\System.exe
+C:\Users\eneil\Desktop\POS +ims\System\bin\Debug\System.pdb
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.csproj.AssemblyReference.cache
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.Properties.Resources.resources
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.csproj.GenerateResource.cache
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.csproj.CoreCompileInputs.cache
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.exe
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.pdb
+C:\Users\eneil\Desktop\POS +ims\System\bin\Debug\POS +ims.dll
+C:\Users\eneil\Desktop\POS +ims\System\bin\Debug\POS +ims.pdb
+C:\Users\eneil\Desktop\POS +ims\System\bin\Debug\POS +ims.dll.config
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.Form1.resources
+C:\Users\eneil\Desktop\POS +ims\System\obj\Debug\System.csproj.Up2Date
