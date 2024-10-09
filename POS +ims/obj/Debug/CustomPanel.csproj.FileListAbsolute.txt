@@ -1,0 +1,14 @@
+C:\Users\jorda\source\repos\POS +ims\POS +ims\bin\Debug\POS +ims.dll.config
+C:\Users\jorda\source\repos\POS +ims\POS +ims\bin\Debug\POS +ims.dll
+C:\Users\jorda\source\repos\POS +ims\POS +ims\bin\Debug\POS +ims.pdb
+C:\Users\jorda\source\repos\POS +ims\POS +ims\obj\Debug\CustomPanel.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\POS +ims\POS +ims\obj\Debug\CustomPanel.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\POS +ims\POS +ims\obj\Debug\POS +ims.dll
+C:\Users\jorda\source\repos\POS +ims\POS +ims\obj\Debug\POS +ims.pdb
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\bin\Debug\POS +ims.dll.config
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\bin\Debug\POS +ims.dll
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\bin\Debug\POS +ims.pdb
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\obj\Debug\CustomPanel.csproj.AssemblyReference.cache
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\obj\Debug\CustomPanel.csproj.CoreCompileInputs.cache
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\obj\Debug\POS +ims.dll
+C:\Users\eneil\Desktop\pos+ims repos\POS +ims 9-10-2024 10pm\POS +ims\obj\Debug\POS +ims.pdb

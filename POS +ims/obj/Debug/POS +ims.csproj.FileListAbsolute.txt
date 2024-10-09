@@ -1,0 +1,7 @@
+C:\Users\eneil\Desktop\POS +ims\POS +ims\bin\Debug\POS +ims.dll.config
+C:\Users\eneil\Desktop\POS +ims\POS +ims\bin\Debug\POS +ims.dll
+C:\Users\eneil\Desktop\POS +ims\POS +ims\bin\Debug\POS +ims.pdb
+C:\Users\eneil\Desktop\POS +ims\POS +ims\obj\Debug\POS +ims.csproj.AssemblyReference.cache
+C:\Users\eneil\Desktop\POS +ims\POS +ims\obj\Debug\POS +ims.csproj.CoreCompileInputs.cache
+C:\Users\eneil\Desktop\POS +ims\POS +ims\obj\Debug\POS +ims.dll
+C:\Users\eneil\Desktop\POS +ims\POS +ims\obj\Debug\POS +ims.pdb
