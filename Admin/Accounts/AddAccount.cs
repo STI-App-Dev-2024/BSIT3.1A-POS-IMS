@@ -49,7 +49,8 @@ namespace System
         {
             try
             {
-
+                string pattern = @"^[a-zA-Z0-9]{8,16}$";
+                
                 if (String.IsNullOrEmpty(txtBoxEIDAdd.Text) && String.IsNullOrEmpty(txtBoxAddPass.Text) && String.IsNullOrEmpty(cbAddRoles.Text))
                 {
                     throw new FormatException("Password and Role Textbox cannot be empty.");
@@ -68,6 +69,16 @@ namespace System
                 else if (String.IsNullOrEmpty(cbAddRoles.Text))
                 {
                     throw new FormatException("Role Textbox cannot be empty.");
+                }
+
+                else if (!(cbAddRoles.Text == "FrontDesk" || cbAddRoles.Text == "Admin"))
+                {
+                    throw new FormatException("Role can only be FrontDesk or Admin.");
+                }
+
+                else if(!Regex.IsMatch(txtBoxAddPass.Text, pattern))
+                {
+                    throw new FormatException($"Password can only contain 8-16 characters.");
                 }
 
                 else if (MessageBox.Show("Are you sure you want to add this account?", "Add Account", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
