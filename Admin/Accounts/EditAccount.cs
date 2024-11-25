@@ -53,6 +53,8 @@ namespace System
         private void btnEditAcc_Click(object sender, EventArgs e)
         {
             try {
+                string pattern = @"^[a-zA-Z0-9]{8,16}$";
+            
                 if (String.IsNullOrEmpty(txtBoxEditPass.Text) && String.IsNullOrEmpty(cbEditRoles.Text))
                 {
                     throw new FormatException("Password and Role Textbox cannot be empty.");
@@ -71,6 +73,11 @@ namespace System
                 else if (!(cbEditRoles.Text == "FrontDesk" || cbEditRoles.Text == "Admin"))
                 {
                     throw new FormatException("Role can only be FrontDesk or Admin.");
+                }
+
+                else if (!Regex.IsMatch(txtBoxEditPass.Text, pattern))
+                {
+                    throw new FormatException($"Password can only contain 8-16 characters.");
                 }
 
                 else if (MessageBox.Show("Are you sure you want to update this account?", "Account Product", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
